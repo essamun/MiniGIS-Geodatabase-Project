@@ -73,7 +73,8 @@ This type of workflow is relevant for:
 
 ---
 
-## 🙋 About the Author
+Interested in freelance GIS digitization or geodatabase work?
+I deliver clean, fast, and accurate spatial data using QGIS and related tools.
 
 **Essam Afifi**  
 Canadian Data & AI Consultant | 20+ Years Experience | Fluent in EN/FR/AR  
