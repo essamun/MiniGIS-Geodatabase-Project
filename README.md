@@ -59,7 +59,7 @@ As a GIS Senior Consultant (IBM) with over 20 years of experience and a Master's
 
 ## 🖼️ Preview
 
-![Final Map Output](Screenshots/final-map.png)
+![Final Map Output](screenshots/final-map.png)
 
 ---
 
